@@ -98,7 +98,7 @@ python teleportation.py
 This will generate the circuit image and print the success rate in the terminal. 
 
 ## Author
-* **Numa Guiot** - [Numa Guiot](https://github.com/Hyma3)
+* **Numa Guiot** - [Numa Guiot](https://github.com/numaguiot)
 * LinkedIn: [Numa Guiot](https://www.linkedin.com/in/numaguiot/)
 * Built with IBM Qiskit.
 
