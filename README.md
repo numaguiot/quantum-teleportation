@@ -80,7 +80,7 @@ The histogram below confirms the results. While Alice's measurements bits (the 2
 ### Setup
 ```bash
 # Clone the repository
-git clone https://github.com/Hyma3/quantum-teleportation.git
+git clone https://github.com/numaguiot/quantum-teleportation.git
 cd quantum-teleportation
 
 # Create virtual env
